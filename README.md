@@ -7,21 +7,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:%230D1B2A,50:%231B263B,100:%23415A77&section=header&animation=fadeIn" width="100%" alt="Navy and slate profile banner" />
 
-<pre>
-███████╗ █████╗ ████████╗██╗   ██╗██╗██╗  ██╗
-██╔════╝██╔══██╗╚══██╔══╝██║   ██║██║██║ ██╔╝
-███████╗███████║   ██║   ██║   ██║██║█████╔╝
-╚════██║██╔══██║   ██║   ╚██╗ ██╔╝██║██╔═██╗
-███████║██║  ██║   ██║    ╚████╔╝ ██║██║  ██╗
-╚══════╝╚═╝  ╚═╝   ╚═╝     ╚═══╝  ╚═╝╚═╝  ╚═╝
 
-███████╗██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗
-██╔════╝██║  ██║██╔══██╗██╔══██╗████╗ ████║██╔══██╗
-███████╗███████║███████║██████╔╝██╔████╔██║███████║
-╚════██║██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║
-███████║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
-</pre>
+
+
+<!-- ASCII ART PORTRAIT -->
+<div align="center">
+
+  <img
+    src="./ascii-art portrait.png"
+    alt="Green ASCII-art portrait of Satvik Sharma on a black background"
+    width="520"
+  />
+
+  <br/>
+
+  <sub><i>AI & Full-Stack Developer · Building with curiosity and precision</i></sub>
+
+</div>
+
+
 
 ### AI & Full-Stack Developer
 
